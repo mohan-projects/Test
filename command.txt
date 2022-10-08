@@ -7,3 +7,16 @@
 1. git init
 2. git add .
 3. git commit -m "message"
+
+
+// Everytime you make any changes and want to keep record of the changes. execute command 2 and 3.
+
+// To see all the records
+1. git log
+
+
+// At anytime, if you want to see what changes you've done in any file
+1. git status
+
+// To update local files on GitHub
+1. git push origin main
